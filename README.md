@@ -1,4 +1,4 @@
-# Hesap Makinesi
+# Voice Calculator
 
 Bu hesap makinesi, Python ve Tkinter kullanılarak geliştirilmiş basit bir hesap makinesi uygulamasıdır. Kullanıcılar, hesap makinesi arayüzündeki tuşlara tıklayarak matematiksel işlemler yapabilirler.
 
